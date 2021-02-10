@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:books xmlns:xi="http://www.w3.org/2001/XMLSchema-instance" xmlns:b="http://www.booksinfo.com" xi:schemaLocation="http://www.booksinfo.com book.xsd">
+<bid>22</bid>
+<bname>the secret</bname>
+<author>krish</author>
+<publisher pname="ironman"/>
+</b:books>
